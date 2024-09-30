@@ -1,0 +1,190 @@
+valid|s:5:"21639";funders_currency|s:3:"USD";exchange_rate|s:3:"100";equipments_table|s:1340:"
+            <table class="dataTable">
+                <thead>
+                    <tr>
+                        <th>Catalogue No:</th>
+                        <th>Item</th>
+                        <th>Description</th>
+                        <!--<th>Quarter needed</th>-->
+                        <th>Quantity</th>
+                        <th>Unit</th>
+                        <th>Unit cost (ksh)</th>
+                        <th>Amount (ksh)</th>
+                        <th id="amount-header">Amount (USD)</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                <!-- Table rows will be dynamically added -->
+                <tr><td>CAT-2000-Modern_sequencing_machine</td><td>Modern sequencing machine type a</td><td>ffdf</td><td>34554</td>
+        <td>Boxes</td><td>200000</td><td>6,910,800,000.00</td><td>69,108,000.00</td></tr><tr><td></td><td>dee</td><td>dsf</td><td>3</td>
+        <td>Pack</td><td>200</td><td>600</td><td>6.00</td></tr></tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="6">Total</td>
+                     
+                        <td id="sum" name="sum">6,910,800,600.00</td>
+                        <td id="sum_other">69,108,006.00</td>
+                    </tr>
+                </tfoot>
+            </table>
+        ";equipments_total|s:16:"6,910,800,600.00";equipments_total_converted_total|s:13:"69,108,006.00";totals|s:16:"7,743,416,155.10";total_converted_totals|s:13:"77,434,161.55";supplies_table|s:1453:"
+            <table class="dataTable">
+                <thead>
+                    <tr>
+                        <th>Catalogue No:</th>
+                        <th>Item</th>
+                        <th>Description</th>
+                       <!-- <th>Quarter needed</th>-->
+                        <th>Quantity</th>
+                        <th>Unit</th>
+                        <th>Unit cost (ksh)</th>
+                        <th>Amount (ksh)</th>
+                        <th id="amount-header">Amount (USD)</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                <!-- Table rows will be dynamically added -->
+                <tr><td>T-P-000</td><td>Plastic Test tube</td><td>sdsed</td><td>3</td>
+        <td>Boxes</td><td>200</td><td>600.00</td><td>6.00</td></tr><tr><td></td><td>dsd</td><td>scsd</td><td>3</td>
+        <td>Boxes</td><td>2323</td><td>6969</td><td>69.69</td></tr></tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="6">Total</td>                    
+                        <td id="sum">7,569.00</td>
+                        <td id="sum_other">75.69</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <div class="bottom_buttons">
+                <div><button id="submitBtn">Submit</button></div>
+                <div class="next_button"><a href="Travels.php">Next</a></div>
+            </div>
+        ";supplies_total|s:8:"7,569.00";supplies_total_converted_total|s:5:"75.69";travels_table|s:1394:"
+            <table class="dataTable">
+                <thead>
+                    <tr>
+                        <th>KMR of travellor</th>
+                        <th>Area visited</th>
+                        <th>Per diem </th>
+                        <th>No. of people travelling</th>
+                        <th>No. of nights out</th>
+                        <th>No of trips</th>
+                        <th>Quarter of visit</th>
+                        <th>Amount (ksh)</th>
+                        <th id="amount-header">Amount (USD)</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                <!-- Table rows will be dynamically added -->
+                <tr><td>KMR 1</td><td>Kilifi</td><td>18200</td>
+            <td>2</td><td>2</td><td>2</td>
+            <td>2</td><td>145,616.00</td><td>1,456.16</td></tr></tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="7">Total</td>
+                     
+                        <td id="sum">145,616.00</td>
+                        <td id="sum_other">1,456.16</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <div class="bottom_buttons">
+                <div><button id="submitBtn">Submit</button></div>
+                <div class="next_button"><a href="contractuals.php">Next</a></div>
+            </div>
+        ";travels_total|s:10:"145,616.00";travels_total_converted_total|s:8:"1,456.16";contractuals_table|s:1235:"
+            <table class="dataTable">
+                <thead>
+                    <tr>
+                        <th>Type</th>
+                        <th>Quantity</th>
+                        <th>Description</th>
+                        <th>Cost per unit</th>
+                        <th>Quarter</th>
+                        <th>Amount (ksh)</th>
+                        <th id="amount-header">Amount (USD)</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                <!-- Table rows will be dynamically added -->
+                <tr><td>Office machine servicing</td><td>2</td><td>sas</td><td>20000</td><td>3</td>
+            <td>35,200.00</td><td>352.00</td></tr></tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="5">Total</td>
+                     
+                        <td id="sum">35,200.00</td>
+                        <td id="sum_other">352.00</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <div class="bottom_buttons">
+                <div><button id="submitBtn">Submit</button></div>
+                <div class="next_button"><a href="Others.php">Next</a></div>
+            </div>
+        ";contractuals_total|s:9:"35,200.00";contractual_converted_total|s:6:"352.00";others_table|s:1249:"
+            <table class="dataTable">
+                <thead>
+                    <tr>
+                        <th>Type</th>
+                        <th>Quantity</th>
+                        <th>Description</th>
+                        <th>Cost per unit</th>
+                        <th>Quarter</th>
+                        <th>Amount (ksh)</th>
+                        <th id="amount-header">Amount (USD)</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                <!-- Table rows will be dynamically added -->
+                <tr><td>Training</td><td>33</td><td>3sasa</td><td>20000</td><td>3</td>
+            <td>660,000.00</td><td>6,600.00</td></tr></tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="5">Total</td>
+                     
+                        <td id="sum">660,000.00</td>
+                        <td id="sum_other">6,600.00</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <div class="bottom_buttons">
+                <div><button id="submitBtn" type="button">Submit</button></div>
+                <div class="next_button"><a href="Indirect_cost.php">Next</a></div>
+            </div>
+        ";others_total|s:10:"660,000.00";other_total_converted_total|s:8:"6,600.00";total_before_indirect|s:16:"6,913,764,424.20";total_before_indirect_converted|s:13:"69,137,644.24";personnel_total_converted_|s:9:"21,154.39";personnel_table|s:1540:"
+            <table class="dataTable">
+                <thead>
+                    <tr>
+                        <th>Designation</th>
+                        <th>Role</th>
+                        <th>Status</th>
+                        <th>Number of staff</th>                       
+                        <th>Gross pay/Allowance</th>
+                        <th>FTE %</th>
+                        <th>Fees and subscriptions</th>
+                        <th>Period (in months)</th>
+                        <th>Amount (ksh)</th>
+                        <th id="amount-header">Amount (USD)</th>
+                        
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                <!-- Table rows will be dynamically added -->
+                <tr><td>Senior Principal Clinical Research Scientist</td><td>swer</td><td>pnp</td><td>2</td><td>622188</td>
+            <td>12</td><td>N/A</td><td>10</td><td>2,115,439.20</td>
+            <td>21,154.39</td></tr></tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="8">Total</td>
+                     
+                        <td id="sum" name="sum">2,115,439.20</td>
+                        <td id="sum_other">21,154.39</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <div class="bottom_buttons">
+                <div><button id="submitBtn">Submit</button></div>
+                <div class="next_button"><a href="equipments.php">Next</a></div>
+            </div>
+        ";personnels_total|s:12:"2,115,439.20";personnels_converted_total|s:9:"21,154.39";converted_indirect_cost|s:12:"8,296,517.31";indirect_converted_total|s:12:"8,296,517.31";indirect_total|N;inputValue|s:14:"829,651,730.90";

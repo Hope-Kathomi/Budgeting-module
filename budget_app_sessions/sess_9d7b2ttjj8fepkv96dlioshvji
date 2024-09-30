@@ -1,0 +1,36 @@
+valid|s:5:"21639";funders_currency|s:3:"USD";exchange_rate|s:3:"100";total_before_indirect|s:4:"0.00";total_before_indirect_converted|s:4:"0.00";totals|s:4:"0.00";total_converted_totals|s:4:"0.00";personnel_total_converted_|s:9:"21,154.39";personnel_table|s:1540:"
+            <table class="dataTable">
+                <thead>
+                    <tr>
+                        <th>Designation</th>
+                        <th>Role</th>
+                        <th>Status</th>
+                        <th>Number of staff</th>                       
+                        <th>Gross pay/Allowance</th>
+                        <th>FTE %</th>
+                        <th>Fees and subscriptions</th>
+                        <th>Period (in months)</th>
+                        <th>Amount (ksh)</th>
+                        <th id="amount-header">Amount (USD)</th>
+                        
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                <!-- Table rows will be dynamically added -->
+                <tr><td>Senior Principal Clinical Research Scientist</td><td>swer</td><td>pnp</td><td>2</td><td>622188</td>
+            <td>12</td><td>N/A</td><td>10</td><td>2,115,439.20</td>
+            <td>21,154.39</td></tr></tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="8">Total</td>
+                     
+                        <td id="sum" name="sum">2,115,439.20</td>
+                        <td id="sum_other">21,154.39</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <div class="bottom_buttons">
+                <div><button id="submitBtn">Submit</button></div>
+                <div class="next_button"><a href="equipments.php">Next</a></div>
+            </div>
+        ";personnels_total|s:12:"2,115,439.20";personnels_converted_total|s:9:"21,154.39";

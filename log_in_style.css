@@ -1,0 +1,46 @@
+
+.containerl{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+label {
+    display: block; /* Display labels as block elements */
+    margin-bottom: 10px; /* Add space between label and input */
+}
+body{
+    font-family: Poppins;
+}
+
+#log_in_form{
+    background-color: rgb(214, 214, 211);
+    padding: 55px;
+    border-radius: 15px;
+}
+.input-div{
+    background-color: rgb(237, 237, 236);
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 7px;
+}
+.submit_button-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+button{
+   background-color: rgb(28, 175, 233);
+   border: 0px;
+   width: 100px;
+   height: 40px;
+   border-radius: 10px;
+}
+header{
+    margin-bottom: 30px;
+}
+
